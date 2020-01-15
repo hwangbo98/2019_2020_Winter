@@ -33,7 +33,7 @@ for j in list_str :
     else :
         count+=11
     
-    print(count)
+
         
         
 print(count)

@@ -17,7 +17,7 @@ for i in range(1,len(num_list)) :
         print("ascending")
     
     if (count2 == 7) :
-        print("decending")
+        print("descending")
     '''   
     if ((num_list[i] - num_list[i-1] != 1) or (num_list[i] - num_list[i-1] != -1))  :
         print("mixed")
